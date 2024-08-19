@@ -87,7 +87,7 @@ function Projects() {
                             <Card.Text>
                                 <a href="https://github.com/JAGeorge54/badBank_threeTier">Github Link</a>
                                 <br />
-                                <a href="https://jageorge54-badbank-threetier-b8ee485df166.herokuapp.com/#/">See it in action</a>
+                                <a href="https://bad-bank-three-tier.vercel.app/#/">See it in action</a>
                             </Card.Text>
                         </Card.Body>
                     </Card>
