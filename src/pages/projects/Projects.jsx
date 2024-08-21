@@ -20,7 +20,9 @@ function Projects() {
                         <Card.Body>
                             <Card.Title>Full Stack Banking App</Card.Title>
                             <Card.Text>
-                                <a href='/comingSoon'>Github Link</a>
+                                <a href='https://github.com/JAGeorge54/bad-bank-react'>Github Link 1</a>
+                                <br />
+                                <a href='https://github.com/JAGeorge54/badbank-react-backend'>Github Link 2</a>
                                 <br />
                                 <a href='/comingSoon'>See it in action</a>
                             </Card.Text>
